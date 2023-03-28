@@ -1,0 +1,28 @@
+E:\Matière\Bloc 1\Projet Rendre la Monaie\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\obj\Debug\RenndreLaMonaie Ricquier Dimitri.csproj.AssemblyReference.cache
+E:\Matière\Bloc 1\Projet Rendre la Monaie\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\obj\Debug\RenndreLaMonaie Ricquier Dimitri.csproj.CoreCompileInputs.cache
+E:\Matière\Bloc 1\Projet Rendre la Monaie\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\bin\Debug\RenndreLaMonaie Ricquier Dimitri.exe.config
+E:\Matière\Bloc 1\Projet Rendre la Monaie\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\bin\Debug\RenndreLaMonaie Ricquier Dimitri.exe
+E:\Matière\Bloc 1\Projet Rendre la Monaie\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\bin\Debug\RenndreLaMonaie Ricquier Dimitri.pdb
+E:\Matière\Bloc 1\Projet Rendre la Monaie\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\obj\Debug\RenndreLaMonaie Ricquier Dimitri.exe
+E:\Matière\Bloc 1\Projet Rendre la Monaie\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\obj\Debug\RenndreLaMonaie Ricquier Dimitri.pdb
+F:\Matière\Bloc 1\Projet Rendre la Monaie\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\bin\Debug\RenndreLaMonaie Ricquier Dimitri.exe.config
+F:\Matière\Bloc 1\Projet Rendre la Monaie\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\bin\Debug\RenndreLaMonaie Ricquier Dimitri.exe
+F:\Matière\Bloc 1\Projet Rendre la Monaie\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\bin\Debug\RenndreLaMonaie Ricquier Dimitri.pdb
+F:\Matière\Bloc 1\Projet Rendre la Monaie\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\obj\Debug\RenndreLaMonaie Ricquier Dimitri.csproj.AssemblyReference.cache
+F:\Matière\Bloc 1\Projet Rendre la Monaie\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\obj\Debug\RenndreLaMonaie Ricquier Dimitri.csproj.CoreCompileInputs.cache
+F:\Matière\Bloc 1\Projet Rendre la Monaie\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\obj\Debug\RenndreLaMonaie Ricquier Dimitri.exe
+F:\Matière\Bloc 1\Projet Rendre la Monaie\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\obj\Debug\RenndreLaMonaie Ricquier Dimitri.pdb
+K:\Matière\Bloc 1\Projet Rendre la Monaie\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\bin\Debug\RenndreLaMonaie Ricquier Dimitri.exe.config
+K:\Matière\Bloc 1\Projet Rendre la Monaie\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\bin\Debug\RenndreLaMonaie Ricquier Dimitri.exe
+K:\Matière\Bloc 1\Projet Rendre la Monaie\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\bin\Debug\RenndreLaMonaie Ricquier Dimitri.pdb
+K:\Matière\Bloc 1\Projet Rendre la Monaie\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\obj\Debug\RenndreLaMonaie Ricquier Dimitri.csprojAssemblyReference.cache
+K:\Matière\Bloc 1\Projet Rendre la Monaie\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\obj\Debug\RenndreLaMonaie Ricquier Dimitri.csproj.CoreCompileInputs.cache
+K:\Matière\Bloc 1\Projet Rendre la Monaie\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\obj\Debug\RenndreLaMonaie Ricquier Dimitri.exe
+K:\Matière\Bloc 1\Projet Rendre la Monaie\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\obj\Debug\RenndreLaMonaie Ricquier Dimitri.pdb
+C:\Users\Saskae-Dim\Desktop\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\bin\Debug\RenndreLaMonaie Ricquier Dimitri.exe.config
+C:\Users\Saskae-Dim\Desktop\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\bin\Debug\RenndreLaMonaie Ricquier Dimitri.exe
+C:\Users\Saskae-Dim\Desktop\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\bin\Debug\RenndreLaMonaie Ricquier Dimitri.pdb
+C:\Users\Saskae-Dim\Desktop\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\obj\Debug\RenndreLaMonaie Ricquier Dimitri.csproj.AssemblyReference.cache
+C:\Users\Saskae-Dim\Desktop\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\obj\Debug\RenndreLaMonaie Ricquier Dimitri.csproj.CoreCompileInputs.cache
+C:\Users\Saskae-Dim\Desktop\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\obj\Debug\RenndreLaMonaie Ricquier Dimitri.exe
+C:\Users\Saskae-Dim\Desktop\RenndreLaMonaie Ricquier Dimitri\RenndreLaMonaie Ricquier Dimitri\obj\Debug\RenndreLaMonaie Ricquier Dimitri.pdb
